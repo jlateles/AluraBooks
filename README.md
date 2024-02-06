@@ -32,3 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Como utilizar validações padrões
 - Como criar diretivas validadoras
 - Implementação de validação assincrona com uso de API
+
+## Aplicação final 
+
+<img src="https://github.com/jlateles/AluraBooks/blob/main/src/assets/img/Captura%20de%20Tela%20(tela1-form).png">
+<img src="https://github.com/jlateles/AluraBooks/blob/main/src/assets/img/Captura%20de%20Tela%20(tela2-form).png">
